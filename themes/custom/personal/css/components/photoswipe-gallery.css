@@ -1,0 +1,9 @@
+.photoswipe-gallery .field {
+  margin-bottom: 40px;
+  display: flex;
+}
+
+.photoswipe-gallery .field__item {
+  flex: 1;
+  margin: 0 10px 10px 0;
+}
