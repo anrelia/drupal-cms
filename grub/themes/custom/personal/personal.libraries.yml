@@ -1,8 +1,0 @@
-global:
-  version: 1.0
-  css:
-    component:
-      css/base.css: {}
-      css/components/photoswipe-gallery.css: {}
-      css/components/socialmedia-accounts.css: {}
-
